@@ -1,0 +1,12 @@
+.info__cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2em;
+}
+
+@media screen and (min-width: 850px) {
+    .info__card-heading {
+        font-size: 1.8rem;
+    }
+}

@@ -1,0 +1,42 @@
+.knowledge__span {
+    text-transform: uppercase;
+    font-size: 1.725em;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+.knowledge__span--java {
+    color: var(--java);
+}
+
+.knowledge__span--html {
+    color: var(--html);
+}
+
+.knowledge__span--css {
+    color: var(--css);
+}
+
+.knowledge__span--php {
+    color: var(--php);
+}
+
+.knowledge__span--mysql {
+    color: var(--mysql);
+}
+
+.knowledge__span--python {
+    color: var(--python);
+}
+
+.knowledge__span--bootstrap {
+    color: var(--bootstrap);
+}
+
+.knowledge__span--springboot {
+    color: var(--springboot);
+}
+
+.knowledge__span--kotlin {
+    color: var(--kotlin);
+}

@@ -1,0 +1,37 @@
+:root {
+    --java: #fd5959;
+    --html: #9d53c3;
+    --css: #41a1d1;
+    --php: #a2c11c;
+    --mysql: #ff894c;
+    --python: #2aa59d;
+    --bootstrap: #a696c8;
+    --springboot: #c4416d;
+    --kotlin: #f8b400;
+    --title: #dbd9d9;
+    --gray-light: #f1f1f1;
+    --gray-light-2: #bebcbc;
+    --gray-dark: #242424;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 50%;
+}
+
+body {
+    background-color: #f5f5f5;
+    color: #333;
+    font-family: sans-serif;
+}
+
+@media screen and (min-width: 600px) {
+    html {
+        font-size: 56.25%;
+    }
+}

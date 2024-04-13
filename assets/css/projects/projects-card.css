@@ -1,0 +1,22 @@
+.projects__card {
+background-color: #121212;
+border-radius: 8px;
+overflow: hidden;
+width: 320px;
+box-shadow: 2px 3px 5px rgba(0,0,0,.3);
+box-sizing: border-box;
+}
+
+.projects__card:not(:last-child) {
+    margin-bottom: 6em;
+}
+
+.projects__card:not(.responsive) {
+    display: none;
+}
+
+@media screen and (min-width: 980px) {
+    .projects__card:not(.responsive) {
+        display: unset;
+    }
+}

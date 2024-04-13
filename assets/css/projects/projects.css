@@ -1,0 +1,12 @@
+.projects {
+    background-color: #000;
+    padding: 6em 0;
+    color: var(--gray-light-2);
+}
+
+@media screen and (min-width: 980px) {
+    .projects > .container {
+        width: 90%;
+        margin: 0 auto;
+    }
+}

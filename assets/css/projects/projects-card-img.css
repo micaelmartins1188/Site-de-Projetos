@@ -1,0 +1,105 @@
+.projects__card-img {
+    width: 100%;
+    height: 150px;
+    background-color: #807979;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.projects__card-img--calculo-basico{
+    background-image: url(../../img/calculo-basico.png);
+    background-size: cover;
+}
+
+.projects__card-img--modal {
+    background-image: url(../../img/modal.png);
+    background-size: cover;
+}
+
+.projects__card-img--advinhe-o-numero-secreto {
+    background-image: url(../../img/advinhe-o-numero-secreto.png);
+    background-size: cover;
+}
+
+.projects__card-img--pig-game {
+    background-image: url(../../img/pig-game.png);
+    background-size: cover;
+}
+
+.projects__card-img--conversor-de-moedas {
+    background-image: url(../../img/conversor-de-moedas.png);
+    background-size: cover;
+}
+
+.projects__card-img--lista-de-tarefas {
+    background-image: url(../../img/lista-de-tarefas.png);
+    background-size: cover;
+}
+
+.projects__card-img--jogo-da-velha {
+    background-image: url(../../img/jogo-da-velha.png);
+    background-size: cover;
+}
+
+.projects__card-img--lista-de-viagem {
+    background-image: url(../../img/lista-de-viagem.png);
+    background-size: cover;
+}
+
+.projects__card-img--jogo-21 {
+    background-image: url(../../img/jogo-21.png);
+    background-size: cover;
+}
+
+.projects__card-img--banco-ficticio {
+    background-image: url(../../img/banco-ficticio.png);
+    background-size: cover;
+}
+
+.projects__card-img--lista-de-tarefas-local-storage {
+    background-image: url(../../img/lista-de-tarefas-local-storage.png);
+    background-size: cover;
+}
+
+.projects__card-img--jogo-matematico {
+    background-image: url(../../img/jogo-matematico.png);
+    background-size: cover;
+}
+
+.projects__card-img--relogio-digital {
+    background-image: url(../../img/relogio-digital.png);
+    background-size: cover;
+}
+
+
+.projects__card-img--sortear-nome {
+    background-image: url(../../img/sortear-nome.png);
+    background-size: cover;
+}
+
+.projects__card-img--sortear-numero {
+    background-image: url(../../img/sortear-numero.png);
+    background-size: cover;
+}
+
+.projects__card-img--anotacao {
+    background-image: url(../../img/anotacao.png);
+    background-size: cover;
+}
+
+.projects__card-img--bhaskara {
+    background-image: url(../../img/bhaskara.png);
+    background-size: cover;
+}
+
+.projects__card-img--perguntas-e-respostas {
+    background-image: url(../../img/perguntas-e-respostas.png);
+    background-size: cover;
+}
+
+.projects__card-img--lista-de-tarefas-completo {
+    background-image: url(../../img/lista-de-tarefas-completo.png);
+    background-size: cover;
+}
+

@@ -1,0 +1,10 @@
+.info__card-item {
+    font-size: 1.7em;
+    line-height: 1.2;
+}
+
+@media screen and (min-width: 600px) {
+    .info__card-item {
+        font-size: 1.8rem;
+    }
+}

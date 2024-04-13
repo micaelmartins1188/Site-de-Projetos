@@ -1,0 +1,13 @@
+.welcome__wrap {
+    background-image: linear-gradient(to right bottom, rgba(128, 214, 113), rgba(41, 181, 134));
+    border-radius: 2px;
+    box-shadow: 2px 4px 5px rgba(0, 0, 0, .2);
+    padding: 4px;
+    margin: 0 auto;
+}
+
+@media screen and (min-width: 850px) {
+    .welcome__wrap {
+        width: 700px;
+    }
+}

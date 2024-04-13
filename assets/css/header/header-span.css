@@ -1,0 +1,18 @@
+.header__span {
+    animation: loop 1.5s infinite;
+    color: #D13D42;
+}
+
+@keyframes loop {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}

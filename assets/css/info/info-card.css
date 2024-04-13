@@ -1,0 +1,23 @@
+.info__card {
+    background-color: rgb(248, 173, 173);
+    width: 160px;
+    padding: 2em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media screen and (min-width: 600px) {
+    .info__card {
+        width: 200px;
+    }
+}
+
+@media screen and (min-width: 850px) {
+    .info__card {
+        width: 220px;
+        justify-content: space-evenly;
+        min-height: 220px;
+    }
+}

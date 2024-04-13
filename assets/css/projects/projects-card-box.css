@@ -1,0 +1,4 @@
+.projects__card-box {
+    display: flex;
+    justify-content: space-between;
+}

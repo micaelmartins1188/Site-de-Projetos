@@ -1,0 +1,31 @@
+.project__heading {
+    text-transform: uppercase;
+    font-size: 3.5em;
+    margin-bottom: 1.5em;
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    color: var(--title);
+}
+
+.project__heading::before {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border: 1px solid var(--title);
+    border-width: 0 0 6px 6px;
+    top: 20px;
+    left: -30px;
+}
+
+.project__heading::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border: 1px solid var(--title);
+    border-width: 6px 6px 0 0;
+    top: -20px;
+    right: -30px;
+}

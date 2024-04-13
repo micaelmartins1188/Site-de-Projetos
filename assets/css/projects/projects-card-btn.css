@@ -1,0 +1,18 @@
+.projects__card-btn {
+    border: 2px solid var(--gray-light-2);
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 8px;
+    width: 100%;
+    padding: 1em 0;
+    color: #d3cdcd;
+    font-size: 2em;
+    letter-spacing: 1px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+
+.projects__card-btn:active {
+    transform: scale(.95);
+}

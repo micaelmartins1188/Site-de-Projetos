@@ -1,0 +1,15 @@
+.project__description {
+    font-size: 1.8em;
+    line-height: 1.2;
+    font-weight: 600;
+    color: var(--gray-light-2);
+    letter-spacing: .5px;
+}
+
+@media screen and (min-width: 850px) {
+    .project__description {
+        width: 80%;
+        margin: 0 auto;
+        font-size: 2rem;
+    }
+}
