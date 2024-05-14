@@ -103,3 +103,7 @@
     background-size: cover;
 }
 
+.projects__card-img--controle-financeiro {
+    background-image: url(../../img/controle-financeiro.png);
+    background-size: cover;
+}
