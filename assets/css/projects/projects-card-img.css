@@ -107,3 +107,8 @@
     background-image: url(../../img/controle-financeiro.png);
     background-size: cover;
 }
+
+.projects__card-img--tasklane {
+    background-image: url(../../img/tasklane.png);
+    background-size: cover;
+}
